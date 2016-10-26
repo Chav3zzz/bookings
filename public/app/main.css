@@ -1,0 +1,29 @@
+
+.navbar-text { margin-left: 15px; }
+
+.gray { background: #000000; }
+
+.green { background: #92DCE0; }
+
+.yellow { background: #92DCE0; }
+
+.blue { background: #92DCE0; }
+
+.darkBlue { background: #92DCE0; }
+
+.deepBlue { background: #8C6954; }
+
+.purple { background: #000000; }
+
+.lightPurple { background: #8c9eff; }
+
+.red { background: #ff8a80; }
+
+.pink { background: #ff80ab; }
+
+.footer .footer-content {
+  text-align: center;
+  padding: 30px 0;
+  margin-top: 70px;
+  border-top: 1px solid #E5E5E5;
+}
